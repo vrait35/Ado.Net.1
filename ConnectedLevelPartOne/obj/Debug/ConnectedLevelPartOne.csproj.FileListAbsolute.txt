@@ -1,0 +1,7 @@
+C:\Users\темирбулата\source\repos\ConnectedLevelPartOne\ConnectedLevelPartOne\bin\Debug\ConnectedLevelPartOne.exe.config
+C:\Users\темирбулата\source\repos\ConnectedLevelPartOne\ConnectedLevelPartOne\bin\Debug\ConnectedLevelPartOne.exe
+C:\Users\темирбулата\source\repos\ConnectedLevelPartOne\ConnectedLevelPartOne\bin\Debug\ConnectedLevelPartOne.pdb
+C:\Users\темирбулата\source\repos\ConnectedLevelPartOne\ConnectedLevelPartOne\obj\Debug\ConnectedLevelPartOne.csprojAssemblyReference.cache
+C:\Users\темирбулата\source\repos\ConnectedLevelPartOne\ConnectedLevelPartOne\obj\Debug\ConnectedLevelPartOne.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\source\repos\ConnectedLevelPartOne\ConnectedLevelPartOne\obj\Debug\ConnectedLevelPartOne.exe
+C:\Users\темирбулата\source\repos\ConnectedLevelPartOne\ConnectedLevelPartOne\obj\Debug\ConnectedLevelPartOne.pdb
